@@ -1,0 +1,5 @@
+The legend has it that the Temple of Uhsi holds the elixir of life. You have discovered the Temple, but you need to answer the question of the Guardian Sphinx to get in. The words of the Guardian Sphinx are:
+
+Given a rectangular field of White and Black coins, find the number of black shapes formed inside the grid. A black shape consists of one or more coins placed in adjacent squares of the field. A square is considered to be adjacent to another if they share an edge.
+
+The Guardian Sphinx kills for a wrong answer and hurts you for a sub-optimal solution. Minimize your own suffering !
